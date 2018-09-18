@@ -30,7 +30,7 @@ public class DFSTree {
 	}
 
 	/*
-	 * ±éÀú
+	 * Ñ­»·
 	 */
 	public static void DFSTree2(TreeNode root) {
 		if (root == null) {
